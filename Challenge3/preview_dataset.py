@@ -11,14 +11,16 @@
 #    │   ├── image1.txt
 #    │   └── ...
 #    └── preview_dataset.py
+# 
+# 2. Lalu pada terminal jangan lupa untuk masuk ke direktori Challenge3 dengan "cd Challenge3"
 #
-# 2. Pastikan library berikut sudah terinstal:
+# 3. Pastikan library berikut sudah terinstal:
 #    pip install opencv-python matplotlib
 #
-# 3. Jalankan script dengan perintah:
+# 4. Jalankan script dengan perintah:
 #    python preview_dataset.py
 #
-# 4. Ubah variabel `num_samples` untuk mengatur jumlah gambar
+# 5. Ubah variabel `num_samples` untuk mengatur jumlah gambar
 #    yang ingin ditampilkan secara acak dari folder dataset.
 #
 # ================================================================
