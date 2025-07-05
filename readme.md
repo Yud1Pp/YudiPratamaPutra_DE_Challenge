@@ -86,6 +86,6 @@ python preview_dataset.py
 * Banyak gambar tambahan dikumpulkan dari **Pinterest** dengan keyword pencarian spesifik untuk masing-masing PPE.
 * Total 50 gambar dikumpulkan dan dianotasi ulang sesuai skema YOLO.
 
-Detail isu selengkapnya berada pada file: `Challenge3_DatasetLabelling/issues_notes.md`
+Detail isu selengkapnya berada pada file: `Challenge3_DatasetLabelling/issues.pdf`
 
 ---
